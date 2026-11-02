@@ -18,7 +18,7 @@ http://www.securitygeneration.com - [@securitygen](https://twitter.com/securityg
 Honeyport scripts
 ===
 
-From: 
+From  : 
 http://www.securitygeneration.com/security/linux-bash-ncat-honeyport-script-with-iptables-and-dome9-support/
 http://www.securitygeneration.com/security/honeyport-python-script-with-local-firewall-and-dome9-support/
 
